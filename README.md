@@ -26,4 +26,4 @@ To start a conversation with Cosmo, press:
 
 ## Support
 
-If you encounter any bugs or issues, please contact Mike Cook (usertag: `sackenmikehawk`) on Discord. **Remember, do not share this extension with anyone else.**
+If you encounter any bugs or issues, please contact Mike Cook (usertag: `sackenmikehawk`) on Discord.
